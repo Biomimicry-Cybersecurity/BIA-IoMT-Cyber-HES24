@@ -4,8 +4,8 @@ A repository for exploring Bio-Inspired Algorithms (BIA) in cybersecurity, apply
 Steps to reproduce:
 1) Download raw data from Kaggle
 2) Run __dataset_labelling.R__ to prepare data
-3) Run __benchmark_only.ipynb__ to get baseline comparison results based on classic ML and full dataset
-4) Run __pso_feature_selection_random_forest_only.ipynb__ feature reduction with PSO and RF classification
+3) Run __ml_benchmarks__.ipynb__ to get baseline comparison results based on classic ML and full dataset
+4) Run __pso_feature_selection_random_forest.ipynb__ feature reduction with PSO and RF classification
 5) Run __GA_feature_selection_random_forest.ipynb__ feature reduction with GA and RF classification
 6) Run __AIS_v5_with_IoMT_visualizations.ipynb__ semi-supervised classificaton with AIS
 
